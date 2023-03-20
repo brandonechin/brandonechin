@@ -1,5 +1,12 @@
-### Hi there 👋
+![Tech Consultant business Banner (5)](https://user-images.githubusercontent.com/111926994/226485753-50fe3874-24f3-436b-a247-c0870a292488.png)
 
+
+## Welcome to my GitHub profile! 
+### About Me
+I am a passionate web developer with an interest in creating innovative software solutions. I have experience with JavaScript, React, HTML, CSS, Node.js and more.  I enjoy learning new technologies and I am always looking for exciting new projects to work on and challenges to overcome.
+
+### Let's Connect!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brandonechin/)
 <!--
 **brandonechin/brandonechin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
